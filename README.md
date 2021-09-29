@@ -82,3 +82,9 @@ With the button you can control the following functions:
 - **Double click** – On/Off strip
 - **Long press** – change brightness
 
+![](https://github.com/Lightwell-bg/Wi-Fi-Pixel-Controller-for-addressable-LED-based-on-ESP8266/blob/main/images/wi-setup.png?raw=true)
+![](https://github.com/Lightwell-bg/Wi-Fi-Pixel-Controller-for-addressable-LED-based-on-ESP8266/blob/main/images/wi-01.jpg?raw=true)
+![](https://github.com/Lightwell-bg/Wi-Fi-Pixel-Controller-for-addressable-LED-based-on-ESP8266/blob/main/images/wi-02.jpg?raw=true)
+![](https://github.com/Lightwell-bg/Wi-Fi-Pixel-Controller-for-addressable-LED-based-on-ESP8266/blob/main/images/PCB.png?raw=true)
+![](https://github.com/Lightwell-bg/Wi-Fi-Pixel-Controller-for-addressable-LED-based-on-ESP8266/blob/main/images/Schematic_LED2811StripNYv1.0.png?raw=true)
+
