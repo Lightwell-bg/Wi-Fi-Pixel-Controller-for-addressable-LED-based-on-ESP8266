@@ -39,7 +39,8 @@ Clock adjustment and manipulation is performed via buttom, WEB-interface or APP 
 
 **Note:** Using the links provided here help to support these types of projects. Thank you for the support.
 
-***You can purchase a PCB with soldered elements and connectors for connecting the indicator and sensors, or just a PCB and a set of elements for installation.*** Link
+***You can purchase a PCB with soldered elements and connectors for connecting the indicator and sensors, or just a PCB and a set of elements for installation.***
+ [https://diy-led.eu/product/christmas-wi-fi-pixel-controller-for-addressable-led/](https://diy-led.eu/product/christmas-wi-fi-pixel-controller-for-addressable-led/ "https://diy-led.eu/product/christmas-wi-fi-pixel-controller-for-addressable-led/")
 
 ### Schematics / Assembly
 |WeMos D1 MiniI ESP8266   |   |
